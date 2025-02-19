@@ -33,5 +33,5 @@ To load a sparse matrix from a file
 
 ## Screenshots
 g
-![Screenshot Description](https://imgur.com/a/l9QiSJZ)
+![Screenshot Description](https://imgur.com/gallery/screenshots-l9QiSJZ)
 
