@@ -31,7 +31,5 @@ This project is all about working with sparse matrices in Python. It includes a 
 To load a sparse matrix from a file
 
 
-## Screenshots
-g
-![Screenshot Description](https://imgur.com/gallery/screenshots-l9QiSJZ)
+
 
